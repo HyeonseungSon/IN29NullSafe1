@@ -19,7 +19,6 @@ fun main() {
     println("------------------------------")
     testFun3("문자열")
     testFun3(null)
-
 }
 
 /*
@@ -64,7 +63,6 @@ fun testFun3 (str:String?) {
     println("str : $str")
     println("str.length : ${str?.length}")
 }
-
 
 
 
