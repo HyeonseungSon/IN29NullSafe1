@@ -55,7 +55,6 @@ fun testFun2 (str:String?) {
   참조변수에 객체의 주솟값이 들어 있다면 객체에 접근해서 Method 나 변수를 사용합니다.
   - 만약 잠조변수에 null 이 들어 있다면 오류가 발생하지 않고 null 을 반환합니다.
  */
-
 /*
 Property
  - Kotlin 에서는 변수를 Property 라고 칭합니다.
